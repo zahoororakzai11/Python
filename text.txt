@@ -1,0 +1,2 @@
+This function takes as its arguments the text of the file and one character, returning the number of times that character appears in the text.
+Now we can call it for our file.
